@@ -333,12 +333,12 @@ body {
     }
 
     .desc-help {
-        font-size: 0.7rem;
+        font-size: 0.5rem;
     }
 
     #div-help {
         width: 80%;
-        height: 90%;
+        height: 100%;
     }
 
   }

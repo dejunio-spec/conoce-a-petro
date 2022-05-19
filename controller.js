@@ -279,15 +279,15 @@ function updatePetroPosition(intDivVideo){
 }
 
 function twitterLink(){
-    window.open("https://twitter.com/intent/tweet?text=Conoce%20al%20candidato%20a%20la%20presidencia%20Gustavo%20Petro&url=https://informa-tu-voto-estudiante-uao.on.drv.tw/candidato-petro/experience.html");
+    window.open("https://twitter.com/intent/tweet?text=Conoce%20al%20candidato%20a%20la%20presidencia%20Gustavo%20Petro&url=https://dejunio-spec.github.io/conoce-a-petro/");
 }
 
 function facebookLink(){
-    window.open("https://www.facebook.com/sharer/sharer.php?u=https://informa-tu-voto-estudiante-uao.on.drv.tw/candidato-petro/experience.html");
+    window.open("https://www.facebook.com/sharer/sharer.php?u=https://dejunio-spec.github.io/conoce-a-petro/");
 }
 
 function whatsappLink(){
-    window.open("https://api.whatsapp.com/send?text=Conoce%20al%20candidato%20a%20la%20presidencia%20Gustavo%20Petro%20https://informa-tu-voto-estudiante-uao.on.drv.tw/candidato-petro/experience.html");
+    window.open("https://api.whatsapp.com/send?text=Conoce%20al%20candidato%20a%20la%20presidencia%20Gustavo%20Petro%20https://dejunio-spec.github.io/conoce-a-petro/");
 }
 
 function restartPage() {

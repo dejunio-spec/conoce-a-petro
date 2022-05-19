@@ -326,3 +326,19 @@ body {
     
     
   }
+
+  @media only screen and (max-hight: 1000px) {
+    .h1-help {
+        font-size: 1rem;
+    }
+
+    .desc-help {
+        font-size: 0.7rem;
+    }
+
+    #div-help {
+        width: 80%;
+        height: 90%;
+    }
+
+  }

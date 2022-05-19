@@ -154,11 +154,18 @@ function setupPetro() {
     })
 
     
+
+    
     divVideos.forEach(divVideo => {
         divVideo.addEventListener('dragover', (e) => {
             e.preventDefault();
             const draggable = document.querySelector('.dragging');
             divVideo.appendChild(draggable);
+        })
+
+        divVideo.addEventListener('click', () => {
+            intVideo = divVideo.id;
+            progressVideoRare(intVideo)
         })
     })
 }

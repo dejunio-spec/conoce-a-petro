@@ -1,5 +1,5 @@
 # Conoce a Petro
-Aplicación web interactiva creada con JavaScript y [p5.js](https://p5js.org/), que enseña 5 actividades previas realizadas por el actual candidato a la presidenciade Colombia, Gustavo Petro. Los videos fueron realizados utilizando Adobe After Effects y Adobe Premiere Pro, y la caricatura del personaje fue hecha en Adobe Illustrator.
+Aplicación web interactiva creada con JavaScript y [p5.js](https://p5js.org/), que enseña 5 actividades previas realizadas por el actual candidato a la presidencia de Colombia, Gustavo Petro. Los videos fueron realizados utilizando Adobe After Effects y Adobe Premiere Pro, y la caricatura del personaje fue hecha en Adobe Illustrator.
 
 ## Características
 - Reproduce los videos utilizando el botón de Play.
